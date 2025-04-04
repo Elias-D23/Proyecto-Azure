@@ -1,7 +1,9 @@
 # Proyecto-Azure
 
 Descripción de la Aplicación: Análisis de Imágenes con Custom Vision
+
 ¿Cómo funciona esta aplicación?
+
 Esta aplicación web permite a los usuarios subir una imagen y analizar su contenido utilizando Microsoft Azure Custom Vision, un servicio de inteligencia artificial especializado en el reconocimiento de objetos dentro de imágenes.
 
 El proceso se divide en tres pasos:
